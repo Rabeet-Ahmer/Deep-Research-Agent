@@ -1,5 +1,3 @@
-# Deep-Research-Agent
-=======
 # 🚀 Deep Research Agent
 
 A comprehensive AI-powered research automation system that generates detailed reports by orchestrating multiple specialized agents to search, analyze, and synthesize information from the web.
