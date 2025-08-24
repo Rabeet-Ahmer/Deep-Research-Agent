@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Deep-Research-Agent
 =======
 # 🚀 Deep Research Agent
@@ -202,7 +201,7 @@ git clone https://github.com/yourusername/deep-research-agent.git
 cd deep-research-agent
 pip install -e .
 pip install -r requirements-dev.txt
-
+```
 
 ## 📝 License
 
@@ -224,4 +223,3 @@ This project is licensed under the MIT License
 **Made with ❤️ by Me**
 
 *Transform your research process with AI-powered automation!*
->>>>>>> efbb775 (Add initial project structure)
