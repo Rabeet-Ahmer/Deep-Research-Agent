@@ -6,16 +6,15 @@ A comprehensive AI-powered research automation system that generates detailed re
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Architecture](#architecture)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Project Structure](#project-structure)
-- [API Reference](#api-reference)
-- [Contributing](#contributing)
-- [License](#license)
+- [Overview](#-overview)
+- [Key Features](#-key-features)
+- [Architecture](#-architecture)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Configuration](#-configuration)
+- [Project Structure](#-project-structure)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ## 🎯 Overview
 
@@ -61,7 +60,7 @@ User Input → Coordinator → Query Agent → Search Agent → Synthesis Agent 
 ### Prerequisites
 
 - Python 3.8+
-- OpenAI API key
+- OpenAI API key or Gemini API key
 - Internet connection for web searches
 
 ### Quick Start
