@@ -16,7 +16,7 @@ A comprehensive AI-powered research automation system that generates detailed re
 
 ## 🎯 Overview
 
-The Deep Research Agent is an intelligent research automation system that combines multiple AI agents to conduct comprehensive research on any given topic. It automatically generates search queries, searches the web, analyzes sources, and synthesizes professional reports with proper citations and formatting.
+The Deep Research Agent is an intelligent research automation system that combines multiple AI agents to conduct comprehensive research on any given topic. It automatically generates search queries, searches the web, analyzes sources, and synthesizes professional reports with proper citations and formatting along with sources links (and also shows the thought process).
 
 ### What It Does
 
